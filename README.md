@@ -1,5 +1,5 @@
 # Cuisines-Classification-by-Ingredients
-The basis of this project is formed by two datasets that obtain a listing of the ingredients used for dishes of different cuisines. We show the processing and analysis of the data as well as the classification of dishes of certain cuisines based on their ingredients.
+The basis of this project is formed by two datasets which obtain a listing of the ingredients used for dishes of different cuisines. We show the processing and analysis of the data as well as the classification of dishes to country-specific cuisines based on their ingredients.
 
 
 ## Software
