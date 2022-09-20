@@ -3,7 +3,7 @@ The basis of this project is formed by two datasets which obtain a listing of th
 
 
 ## Software
-The project was created in [R](https://www.r-project.org/). The packages used in the project are
+The project is based on [R](https://www.r-project.org/) code. The packages used in the project are
 - [data.table](https://github.com/Rdatatable/data.table)
 - [ggplot2](https://github.com/tidyverse/ggplot2)
 - [reshape2](https://cran.r-project.org/web/packages/reshape2/index.html)
