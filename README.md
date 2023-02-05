@@ -1,5 +1,5 @@
 # Cuisines-Classification-by-Ingredients
-The basis of this project is formed by two datasets which obtain a listing of the ingredients used for dishes of different cuisines. In file *cusine_classification* (both available as [cusine_classification.html](cusine_classification.html) and [cusine_classification.ipynb](cusine_classification.ipynb)), we show the processing and analysis of the data as well as the classification of dishes to country-specific cuisines based on their ingredients.
+In *cusine_classification* (available as [cusine_classification.html](cusine_classification.html) and [cusine_classification.ipynb](cusine_classification.ipynb)), we show the processing and analysis of two datasets which contain ingredients of dishes of different cuisines. Furthermore, we apply classification algorithms to classify dishes to country-specific cuisines based on their ingredients.
 
 
 ## Software
@@ -24,4 +24,4 @@ The two datasets used in the project are called
 - recipes.csv
 - ingredients.csv
 
-and further described in the annotated code
+and further described in the annotated code.
